@@ -8,7 +8,6 @@ view: another_test_table {
 
   measure: count {
     type: count
-    approximate_threshold: 100000
     drill_fields: []
   }
 }
